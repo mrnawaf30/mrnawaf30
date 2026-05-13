@@ -1,9 +1,9 @@
 <div align="center">
 
-# أهلاً، أنا نواف خليل 👋  
-### مهندس تقنية معلومات | IT Engineer
+# Hi, I'm Nawaf Khalil 👋  
+### IT Engineer | Full-Stack & Flutter Developer | Cloud & Technical Solutions Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=IT+Engineer;Systems+%26+Network+Support;Cybersecurity+Learner;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=IT+Engineer;Full-Stack+Developer;Flutter+Mobile+Developer;Cloud+%26+Technical+Solutions+Specialist;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <br>
 
@@ -13,67 +13,121 @@
 
 ---
 
-## 👨‍💻 نبذة عني
+## 👨‍💻 About Me
 
-أنا **نواف خليل**، مهندس تقنية معلومات مهتم بإدارة الأنظمة، الشبكات، الدعم الفني، الأمن السيبراني، وحلول البنية التحتية التقنية.  
-أحب تطوير مهاراتي باستمرار، حل المشاكل التقنية، وبناء بيئات عمل أكثر استقراراً وأماناً.
+I am **Nawaf Khalil**, a passionate **IT Engineer** and **Full-Stack Developer** with hands-on experience in software development, cloud computing, technical support, networking, and modern IT solutions.
 
-- 🔧 أعمل على دعم وتشغيل أنظمة تقنية المعلومات.
-- 🌐 مهتم بالشبكات، السيرفرات، وأنظمة التشغيل.
-- 🔐 أطور معرفتي في الأمن السيبراني وحماية الأنظمة.
-- 💡 أحب تبسيط المشاكل التقنية وتحويلها إلى حلول عملية.
-- 📚 أتعلم باستمرار تقنيات وأدوات جديدة.
+I specialize in building scalable web and mobile applications using **Flutter**, **ASP.NET Core**, **Supabase**, **SQL**, and cloud technologies.  
+I also have practical experience in **IT infrastructure**, **troubleshooting**, **system administration**, and **CCTV systems installation**.
+
+I continuously improve my technical skills through real-world projects and professional certifications from **Google**, **AWS**, **Microsoft**, **IBM**, and **Meta**.
 
 ---
 
-## 🚀 الأدوات والتقنيات التي أستخدمها
+## 🚀 What I Do
+
+- 💻 Build full-stack web applications.
+- 📱 Develop mobile applications using Flutter.
+- ☁️ Work with cloud platforms and modern IT solutions.
+- 🛠️ Provide technical support and troubleshooting.
+- 🌐 Handle networking and IT infrastructure tasks.
+- 🎥 Install and configure CCTV systems.
+- 🤖 Use AI-assisted development tools to improve productivity.
+- 📚 Continuously learn, build, and solve real-world problems through technology.
+
+---
+
+## 🧠 Interested In
+
+- Full-Stack Development
+- Flutter Mobile Apps
+- Cloud Computing
+- Technical Solutions
+- IT Infrastructure
+- AI-Assisted Development
+- System Administration
+- Networking
+- Database Design
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming & Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+### Backend, Database & Cloud
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+### IT, Systems & Support
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003B57?style=flat&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-1F6FEB?style=flat&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-Security-red?style=flat&logo=fortinet&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-Secure%20Access-green?style=flat&logo=openvpn&logoColor=white)
+![Technical Support](https://img.shields.io/badge/Technical%20Support-0A66C2?style=flat&logo=microsoft&logoColor=white)
+![CCTV](https://img.shields.io/badge/CCTV%20Systems-333333?style=flat&logo=video&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ---
 
-## 🧰 مجالات اهتمامي
+## 📌 Professional Focus
 
 ```yaml
 Nawaf_Khalil:
-  Role: "IT Engineer"
-  Interests:
-    - Systems Administration
-    - Network Support
+  Role: "IT Engineer | Full-Stack & Flutter Developer"
+  Specialization:
+    - Full-Stack Web Development
+    - Flutter Mobile Development
+    - Cloud Computing
+    - Technical Solutions
+    - IT Infrastructure
     - Technical Support
-    - Cybersecurity
-    - Cloud Services
-    - Automation
-  Operating_Systems:
-    - Windows
-    - Linux
-    - Windows Server
-  Tools:
-    - Active Directory
-    - Microsoft 365
-    - Azure
-    - GitHub
-    - PowerShell
-    - Bash
+    - CCTV Systems
+    - AI-Assisted Development
+
+  Technologies:
+    Frontend:
+      - HTML
+      - CSS
+      - JavaScript
+      - Flutter
+
+    Backend:
+      - ASP.NET Core
+      - C#
+
+    Database:
+      - SQL
+      - Supabase
+      - SQL Server
+
+    Cloud:
+      - AWS
+      - Microsoft Azure
+      - Supabase
+
+    IT:
+      - Networking
+      - Troubleshooting
+      - System Administration
+      - CCTV Installation
