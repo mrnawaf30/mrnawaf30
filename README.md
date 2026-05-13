@@ -139,3 +139,39 @@ Nawaf_AL_Hagmi:
       - Troubleshooting
       - System Administration
       - CCTV Installation
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mrnawaf30" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-mrnawaf30-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nawafalhagmi02" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Nawaf%20AL--Hagmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/nawafkh_08" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-nawafkh__08-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://wa.me/967737344993" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Always learning, building, and solving problems through technology.
+
+⭐ Thanks for visiting my GitHub profile ⭐
+
+</div>
+
