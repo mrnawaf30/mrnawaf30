@@ -7,7 +7,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mrnawaf30&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
@@ -139,40 +139,3 @@ Nawaf_AL_Hagmi:
       - Troubleshooting
       - System Administration
       - CCTV Installation
-
----
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nawaf%20AL--Hagmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="YOUR_FACEBOOK_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Nawaf%20AL--Hagmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-
----
-
-<div align="center">
-
-### Always learning, building, and solving problems through technology.
-
-⭐ Thanks for visiting my GitHub profile ⭐
-
-</div>
