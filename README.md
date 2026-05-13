@@ -142,16 +142,30 @@ Nawaf_AL_Hagmi:
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawaf%20AL--Hagmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-Nawaf%20AL--Hagmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Nawaf%20AL--Hagmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Nawaf%20AL--Hagmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
+
 
 ---
 
