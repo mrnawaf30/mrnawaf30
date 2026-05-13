@@ -139,3 +139,26 @@ Nawaf_AL_Hagmi:
       - Troubleshooting
       - System Administration
       - CCTV Installation
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nawaf%20AL--Hagmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-Nawaf%20AL--Hagmi-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+### Always learning, building, and solving problems through technology.
+
+⭐ Thanks for visiting my GitHub profile ⭐
+
+</div>
