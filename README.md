@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nawaf Khalil 👋  
+# Hi, I'm Nawaf AL-Hagmi 👋  
 ### IT Engineer | Full-Stack & Flutter Developer | Cloud & Technical Solutions Specialist
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=IT+Engineer;Full-Stack+Developer;Flutter+Mobile+Developer;Cloud+%26+Technical+Solutions+Specialist;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am **Nawaf Khalil**, a passionate **IT Engineer** and **Full-Stack Developer** with hands-on experience in software development, cloud computing, technical support, networking, and modern IT solutions.
+I am **Nawaf AL-Hagmi**, a passionate **IT Engineer** and **Full-Stack Developer** with hands-on experience in software development, cloud computing, technical support, networking, and modern IT solutions.
 
 I specialize in building scalable web and mobile applications using **Flutter**, **ASP.NET Core**, **Supabase**, **SQL**, and cloud technologies.  
 I also have practical experience in **IT infrastructure**, **troubleshooting**, **system administration**, and **CCTV systems installation**.
