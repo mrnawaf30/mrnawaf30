@@ -17,7 +17,7 @@
 
 I am **Nawaf AL-Hagmi**, a passionate **IT Engineer** and **Full-Stack Developer** with hands-on experience in software development, cloud computing, technical support, networking, and modern IT solutions.
 
-I specialize in building scalable web and mobile applications using **Flutter**, **ASP.NET Core**, **Supabase**, **SQL**, and cloud technologies.  
+I specialize in building scalable web and mobile applications using **Flutter**, **ASP.NET Core**, **Supabase**, **SQL**, **Python**, and cloud technologies.  
 I also have practical experience in **IT infrastructure**, **troubleshooting**, **system administration**, and **CCTV systems installation**.
 
 I continuously improve my technical skills through real-world projects and professional certifications from **Google**, **AWS**, **Microsoft**, **IBM**, and **Meta**.
@@ -59,6 +59,7 @@ I continuously improve my technical skills through real-world projects and profe
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -93,7 +94,7 @@ I continuously improve my technical skills through real-world projects and profe
 ## 📌 Professional Focus
 
 ```yaml
-Nawaf_Khalil:
+Nawaf_AL_Hagmi:
   Role: "IT Engineer | Full-Stack & Flutter Developer"
   Specialization:
     - Full-Stack Web Development
@@ -106,6 +107,12 @@ Nawaf_Khalil:
     - AI-Assisted Development
 
   Technologies:
+    Programming_Languages:
+      - Dart
+      - C#
+      - Python
+      - JavaScript
+
     Frontend:
       - HTML
       - CSS
@@ -115,6 +122,7 @@ Nawaf_Khalil:
     Backend:
       - ASP.NET Core
       - C#
+      - Python
 
     Database:
       - SQL
