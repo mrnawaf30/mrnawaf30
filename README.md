@@ -143,10 +143,6 @@ Nawaf_AL_Hagmi:
 
 ---
 
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
